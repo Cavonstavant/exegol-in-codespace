@@ -1,0 +1,1 @@
+FROM nwodtuhs/exegol:full
