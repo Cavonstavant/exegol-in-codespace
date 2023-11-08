@@ -1,1 +1,1 @@
-FROM nwodtuhs/exegol:full
+FROM nwodtuhs/exegol:light
